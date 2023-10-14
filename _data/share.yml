@@ -4,7 +4,7 @@
 platforms:
   - type: Telegram
     icon: "fab fa-telegram"
-    link: "https://t.me/iTz_Black007"
+    link: "https://t.me/share/url?url=URL&text=TITLE"
 
   # Uncomment below if you need to.
   #
